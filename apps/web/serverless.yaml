@@ -1,0 +1,8 @@
+component: website
+name: ladder-caster-devnet
+stage: prod
+
+inputs:
+  src: ./build
+  domain: https://devnet.basketswap.io
+  region: us-east-1

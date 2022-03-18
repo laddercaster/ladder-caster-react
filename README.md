@@ -1,2 +1,2 @@
-# ladder-caster-react
-LadderCaster is a real-time mobile strategy NFT market economy, built on Solana.
+# ladder-caster
+A resource collection game featuring crafting, breeding, and strategy on the blockchain.
